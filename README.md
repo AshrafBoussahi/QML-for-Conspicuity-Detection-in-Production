@@ -43,11 +43,11 @@ Team Member 2:
 
 
 ### Project Solution:
-The first task is [here](./Final Project Womanium/Task01.ipynb)!
+The first task is [here](./Final Project Womanium/Task01.ipynb)
 
-Task 2: The Variational Classifier notebook is [here](./Final Project Womanium/Quantum_Variational_Classifier.ipynb)!
+Task 2: The Variational Classifier notebook is [here](./Final Project Womanium/Quantum_Variational_Classifier.ipynb)
 
-Task 3:The Quanvolutional Neural Network notebook in an article structure can be found [here](./Final Project Womanium/Quanvolutional Neural Network.ipynb)!
+Task 3:The Quanvolutional Neural Network notebook in an article structure can be found [here](./Final Project Womanium/Quanvolutional Neural Network.ipynb)
 
 
 
