@@ -43,8 +43,16 @@ Team Member 2:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+The first task is [here](Final Project Womanium/Task01.ipynb)
+
+Task 2: The Variational Classifier notebook is [here](Final Project Womanium/Quantum_Variational_Classifier.ipynb)
+
+Task 3:The Quanvolutional Neural Network notebook in an article structure can be found [here](Final Project Womanium/Quanvolutional Neural Network.ipynb)
+
+
+
+I made good progress on creating content for tasks 2 and 3, which could be published as demonstrations with detailed explanations of all the concepts from the beginning. For task 1, I documented my learning process. While I began work on a research paper for task 5, I didn't have enough time toachieve promissing results due personal constraints.
+
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
