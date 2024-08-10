@@ -43,7 +43,7 @@ Team Member 2:
 
 
 ### Project Solution:
-The first task is [here](Final Project Womanium/Task01.ipynb)
+The first task is [here](Final Project Womanium/Task01.ipynb)[here](https://github.com/womanium-quantum/Quantum-AI-2024)
 
 Task 2: The Variational Classifier notebook is [here](Final Project Womanium/Quantum_Variational_Classifier.ipynb)
 
