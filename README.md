@@ -1,3 +1,5 @@
+
+
 # QML-for-Conspicuity-Detection-in-Production
 Womanium Quantum+AI 2024 Projects
 
@@ -52,6 +54,9 @@ Task 3:The Quanvolutional Neural Network notebook in an article structure can be
 
 
 I made good progress on creating content for tasks 2 and 3, which could be published as demonstrations with detailed explanations of all the concepts from the beginning. For task 1, I documented my learning process. While I began work on a research paper for task 5, I didn't have enough time toachieve promissing results due personal constraints.
+
+
+<img width="1600" height="300" alt="QlynixBanner" src="https://github.com/user-attachments/assets/63e268e7-a2da-4de4-851c-4881156fd0c4" />
 
 
 ### Project Presentation Deck:
