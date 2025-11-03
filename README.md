@@ -64,6 +64,7 @@ _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
+<img width="1920" height="1080" alt="Bnner" src="https://github.com/user-attachments/assets/d8164347-259b-4f7f-a98f-0147f8790501" />
 
 
 <img width="791" height="779" alt="Tes drawio" src="https://github.com/user-attachments/assets/d874ddf6-8cc7-4b24-9f7f-caaae78fa1ff" />
