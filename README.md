@@ -68,3 +68,14 @@ See project presentation guidelines [here](https://docs.google.com/document/d/13
 
 
 <img width="791" height="779" alt="Tes drawio" src="https://github.com/user-attachments/assets/d874ddf6-8cc7-4b24-9f7f-caaae78fa1ff" />
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/fd3bc421-db47-46e2-8bcc-e1d4b2f7df3d" />
+
